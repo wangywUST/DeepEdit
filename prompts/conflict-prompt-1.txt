@@ -1,0 +1,11 @@
+You should assess whether Sentence A and Sentence B mentions a same named entity. Answer 'yes' only if Sentence A and Sentence B mention a same named entity. Answer 'no' otherwise.
+
+Sentence A: Philippines is located in the continent of Asia.
+Sentence B: Mark Burnett was born in the city of Manila.
+Answer: no
+Analysis: Sentence A and Sentence B do not mention any same named entity.
+
+Sentence A: Jack Dorsey is a citizen of Latvia.
+Sentence B: Twitter's CEO is Jack Dorsey.
+Answer: no
+Analysis: Sentence A and Sentence B do not mention any same named entity.

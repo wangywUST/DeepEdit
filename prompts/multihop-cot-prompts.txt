@@ -1,0 +1,17 @@
+You should provide an answer to Question by thinking step by step in Thoughts with New Knowledge. You should assume all the knowledge in  Every step in Thoughts with New Knowledge are correct. Steps in Thoughts with New Knowledge are separated by a #.
+
+Question: What is the capital of the country where Plainfield Town Hall is located?
+Thoughts with New Knowledge: Plainfield Town Hall is located in the country of the United States of America.# The capital of United States is Washington, D.C.# Washington, D.C. is the answer.
+Answer: Washington, D.C.
+
+Question: In which country is the company that created Nissan 200SX located?
+Thoughts with New Knowledge: Nissan 200SX was created by Nissan.# Nissan is located in the country of Japan.# Japan is the answer.
+Answer: Japan
+
+Question: Which continent is the country where the director of "My House Husband: Ikaw Na!" was educated located in?
+Thoughts with New Knowledge: The director of "My House Husband: Ikaw Na!" is Jose Javier Reyes.# Jose Javier Reyes was educated at De La Salle University.# De La Salle University is located in the country of Philippines.# Philippines is located in the continent if Asia.# Asia is the answer.
+Answer: Asia
+
+Qustion: In which city is the capital of the country where Lou Pearlman had citizenship?
+Thoughts with New Knowledge: Lou Pearlman is a citizen of India.# The capital of India is Taloga.# Taloga is the answer.
+Answer: Taloga

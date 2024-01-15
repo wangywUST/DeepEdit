@@ -1,0 +1,29 @@
+You need to find the named entity in Sentence B that does not appear in Sentence A. The Answer has to be a named entity and as short as possible.
+
+Sentence A: Plainfield Town Hall is located in the country of the United States of America. 
+Sentence B: The capital of United States is Washington, D.C.
+Answer: Washington, D.C.
+
+Sentence A: Nissan 200SX was created by Nissan.
+Sentence B: Nissan is located in the country of Japan.
+Answer: Japan
+
+Sentence A: The director of "My House Husband: Ikaw Na!" is Jose Javier Reyes. 
+Sentence B: Jose Javier Reyes was educated at De La Salle University.
+Answer: De La Salle University
+
+Sentence A: The US president is Joe Biden.
+Sentence B: The spouse of Joe Biden is Jill Biden.
+Answer: Jill Biden
+
+Sentence A: The developer of Chevrolet Corvette (C4) is Chevrolet.
+Sentence B: Chevrolet is owned by General Motors.
+Answer: General Motors
+
+Sentence A: No entity appears.
+Sentence B: Which person is responsible for creating the religion which John Krol adheres to?
+Answer: John Krol
+
+Sentence A: No entity appears.
+Sentence B: From which continent does the CEO of the developer of GW-BASIC originate?
+Answer: GW-BASIC

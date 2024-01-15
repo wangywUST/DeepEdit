@@ -1,0 +1,21 @@
+You need to remove the entity in Sentence B that does not appear in Sentence A.
+
+Sentence A: Plainfield Town Hall is located in the country of the United States of America. 
+Sentence B: The capital of United States is Washington, D.C.
+Sentence B after removal: The capital of United States is
+
+Sentence A: Nissan 200SX was created by Nissan.
+Sentence B: Nissan is located in the country of Japan.
+Sentence B after removal: Nissan is located in the country of
+
+Sentence A: The director of "My House Husband: Ikaw Na!" is Jose Javier Reyes. 
+Sentence B: Jose Javier Reyes was educated at De La Salle University.
+Sentence B after removal: Jose Javier Reyes was educated at
+
+Sentence A: The US president is Joe Biden.
+Sentence B: The spouse of Joe Biden is Jill Biden.
+Sentence B after removal: The spouse of Joe Biden is
+
+Sentence A: The developer of Chevrolet Corvette (C4) is Chevrolet.
+Sentence B: Chevrolet is owned by General Motors.
+Sentence B after removal: Chevrolet is owned by

@@ -1,0 +1,9 @@
+Assess the content of Sentence A and B. Answer 'yes' if Sentence A and Sentence B are the same to each other. Answer 'no' otherwise.
+
+Sentence A: The headquarters of People's Daily is located in the city of Helsinki.
+Sentence B: Helsinki is located in the continent of Europe.
+Answer: no
+
+Sentence A: Tetris was created by Mark Burnett.
+Sentence B: Tetris was created by Mark Burnett.
+Answer: yes

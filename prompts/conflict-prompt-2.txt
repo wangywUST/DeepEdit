@@ -1,0 +1,6 @@
+You should assess whether Sentence A and Sentence B mention different named entities. Answer 'yes' only if Sentence A and Sentence B mention different named entities. Answer 'no' if Sentence A and Sentence B do not mention any different named entity.
+
+Sentence A: Edward Norton is a citizen of Canada.
+Sentence B: Edward Norton is a citizen of Canada.
+Answer: no
+Analysis: Sentence A and Sentence B do not mention any different named entity.

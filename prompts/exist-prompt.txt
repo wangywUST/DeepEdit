@@ -1,0 +1,25 @@
+Assess whether the Entity appears in the Sentence. Answer yes if the Entity appears in the Sentence, or no if the Entity does not appear in the Sentence.
+
+Sentence: United Kingdom is located in the continent of Asia
+Entity: United Kingdom
+Answer: yes
+
+Sentence: The author of Misery is Richard Dawkins
+Entity: "Misery"
+Answer: yes
+
+Sentence: Jose Javier Reyes was educated at De La Salle University.
+Entity: Misery
+Answer: no
+
+Sentence: Lou Pearlman is a citizen of India
+Entity: Lou Pearlman
+Answer: yes
+
+Sentence: Sikhism was founded by Alexander I of Russia
+Entity: Sikh religion
+Answer: yes
+
+Sentence: Saipa F.C. is associated with the sport of basketball.
+Entity: Saipa F.C.
+Answer: yes
