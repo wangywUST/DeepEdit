@@ -1,4 +1,4 @@
-# MQuAKE
+# DeepEdit
 
 This is the repository for our paper [DeepEdit: Knowledge Editing as Decoding with Constraints](https://arxiv.org/abs/2401.10471).
 
