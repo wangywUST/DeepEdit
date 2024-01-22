@@ -1,6 +1,6 @@
 # MQuAKE
 
-This is the repository for our paper [Knowledge Editing During Decoding](https://arxiv.org/abs/2305.14795).
+This is the repository for our paper [DeepEdit: Knowledge Editing as Decoding with Constraints](https://arxiv.org/abs/2401.10471).
 
 We explore editing the knowledge of black-box LLMs in the decoding stage. We propose DeepEdit (Depth-first Search based Iterative Decoding for Knowledge Editing), a neural-symbolic method that improves the knowledge editing with better coherence, relevance, and awareness during reasoning. DeepEdit can be flexibly applied to all black-box LLMs: it does not require any access to the model parameters, representations, or output vocabulary distributions. 
 
@@ -8,7 +8,7 @@ DeepEdit progressively assesses every reasoning step in terms of effective knowl
 
 Qualitatively, DeepEdit effectively monitors and controls LLMs to produce more succinct and effective reasoning in accord with knowledge editing. Quantitatively, DeepEdit yields significant gains on MQuaKE, a challenging multi-hop question-answering dataset, with knowledge editing.
 
-Please see [our paper](https://arxiv.org/pdf/2305.14795.pdf) for more details.
+Please see [our paper](https://arxiv.org/abs/2401.10471) for more details.
 
 <img src="fig/fig_10.png" width="800">
 
