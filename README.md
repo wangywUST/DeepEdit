@@ -12,14 +12,14 @@ Please see [our paper](https://arxiv.org/abs/2401.10471) for more details.
 
 <img src="fig/fig_10.png" width="800">
 
+## New Benchmarks of MQuAKE-2002 and MQuAKE-hard
+
+We provide them at the folder `datasets`.
+
 ## DeepEdit
 <img src="fig/fig_5.png" width="400">
 
 A python notebook for running DeepEdit on `gpt-3.5-turbo-instruct` is here: [`run_deepedit.ipynb`](https://github.com/wangywUST/DeepEdit/blob/main/run_deepedit.ipynb).
-
-## New Benchmarks of MQuAKE-2002 and MQuAKE-hard
-
-We provide them at the folder `datasets`.
 
 ## Bugs or Questions?
 If you have any questions related to the repo or the paper, or you encounter any problems when using the datasets/code, feel free to email Yiwei Wang `(wangyw.evan@gmail.com)` or open an issue!
