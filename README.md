@@ -2,7 +2,7 @@
 
 This is the repository for our paper [DeepEdit: Knowledge Editing as Decoding with Constraints](https://arxiv.org/abs/2401.10471).
 
-## New Benchmarks of [MQuAKE-2002](https://github.com/wangywUST/DeepEdit/blob/main/datasets/MQuAKE-2002.json) and [MQuAKE-hard](https://github.com/wangywUST/DeepEdit/blob/main/datasets/MQuAKE-hard.json) for Resolving the Annotation Mistakes 🆘 in [MQuAKE](https://github.com/princeton-nlp/MQuAKE).
+## New Benchmarks: [MQuAKE-2002](https://github.com/wangywUST/DeepEdit/blob/main/datasets/MQuAKE-2002.json) and [MQuAKE-hard](https://github.com/wangywUST/DeepEdit/blob/main/datasets/MQuAKE-hard.json) for Resolving the Annotation Mistakes 🆘 in [MQuAKE](https://github.com/princeton-nlp/MQuAKE).
 
 ### Annotation Mistakes in One-Third Instances of MQuAKE-3k.
   There are two issues of using MQuAKE-3k to evaluate KE (knowledge editing) methods. The first issue is that the new knowledge from different instances MQuAKE-3k can cause conflicts and mistakes to the ground-truth answers. In other words, the ground-truth answer from instance A can be altered by the new knowledge from another instance B. We show an example of knowledge conflicts in MQuAKE-3k in the below Figure. These knowledge conflicts will make the ground-truth answers incorrect given the new knowledge that are conflicted with the answers because the inference on every instance would retrieve the new knowledge from all instances. We observe that 998 instances' ground-truth answers are broken by the new knowledge from other instances❗
