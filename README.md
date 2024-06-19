@@ -9,11 +9,11 @@ This is the repository for our paper [DeepEdit: Knowledge Editing as Decoding wi
 
 <img src="fig/fig_2.jpg" width="500">
   
-### New Benchmark MQuAKE-2002 for More Precise Evaluation.
+### New Benchmark [MQuAKE-2002](https://github.com/wangywUST/DeepEdit/blob/main/datasets/MQuAKE-2002.json) for More Precise Evaluation.
   
  To address the issue of annotation mistakes in MQuAKE-3k, we provide a new subset of MQuAKE-3k, which does not have any knowledge conflict across instances. This subset includes 2,002 instances, so we term it as MQuAKE-2002. We filter out the instances of which the ground-truth answers are broken by the new knowledge from other instances to produce MQuAKE-2002. Compared with MQuAKE-3k, our MQuAKE-2002 provides a more precise evaluation for knowledge editing methods, since it removes the annotation mistakes due to knowledge conflicts across instances. The data statistics of MQuAKE-2002 are provided in the below Table.  
 
-### New Benchmark MQuAKE-hard for More Challenging Evaluation.
+### New Benchmark [MQuAKE-hard](https://github.com/wangywUST/DeepEdit/blob/main/datasets/MQuAKE-hard.json) for More Challenging Evaluation.
 
  The second issue of MQuAKE-3k is that more than 66% instances in MQuAKE-3k only contain at most two edited facts that influence the answers, which are not challenging enough to evaluate the knowledge editing methods on handling multiple edited facts that can alter the ground-truth reasons. We construct a more challenging subset of MQuAKE by selecting the instances that contain the highest number of edited facts per instance. We term this challenging set as MQuAKE-hard, which includes 429 instances and every instance contains four edited facts. MQuAKE-hard has no overlap with MQuAKE-3k. We term this challenging set as MQuAKE-hard, which includes 429 instances and every instance contains four edited facts. MQuAKE-hard has no overlap with MQuAKE-3k. The data statistics of MQuAKE-hard are also provided in the below Table.
 
